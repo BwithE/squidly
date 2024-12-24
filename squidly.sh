@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # usage 
 # bash squidly.sh
 # ./squidly.sh
