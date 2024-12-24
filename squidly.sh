@@ -3,7 +3,7 @@
 # bash squidly.sh
 # ./squidly.sh
 
-# Set proxy IP and port
+# Set proxy IP, port and portrange to be tested
 proxyip="<PROXY IP>"
 proxyport="<PROXY PORT>"
 portrange=$(seq 8000 9000)  # Generate port range from 8000-9000
