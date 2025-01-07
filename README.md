@@ -11,6 +11,7 @@ It only reports ports as "open" if the response indicates success, meaning the s
 This script uses the proxy against itself to check localports that are available to itself
 
 YOU --> QUERY --> PROXY -- QUERY --↘
+
 YOU <---- RESPONSE <----- PROXY <--↙
 
 # Usage
