@@ -10,6 +10,9 @@ It only reports ports as "open" if the response indicates success, meaning the s
 # Simple explanation
 This script uses the proxy against itself to check localports that are available to itself
 
+YOU --> QUERY --> PROXY -- QUERY --↘
+YOU <---- RESPONSE <----- PROXY <--↙
+
 # Usage
 Download SQUIDLY and modify the `squidly.sh` 
   - `proxyip`
