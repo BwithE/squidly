@@ -1,5 +1,9 @@
 # Squidly
 
+# FYI
+I just found another useful tool `proxytunnel` that will allow you to establish connections to the interal (localhost) of a proxyserver. So, use this if with just want to scan the interal ports of a proxy server. But, if you want to ssh to an interal session on the Proxy server: `proxytunnel` is the tool you'd want.
+
+
 # Description
 This script is designed to check whether a set of ports on a proxy server are open and returning a successful HTTP response. 
 
