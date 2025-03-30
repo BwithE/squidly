@@ -34,8 +34,4 @@ There is another useful tool `proxytunnel` that will allow you to establish conn
 So, use this if with just want to scan the interal ports of a proxy server. 
 
 But, if you want to ssh to an interal session on the Proxy server: `proxytunnel` is the tool you'd want.
-git clone https://github.com/bwithe/squidly
-cd squidly
-chmod +x squidly.sh
-./squidly
-```
+
