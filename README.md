@@ -24,8 +24,8 @@ git clone https://github.com/bwithe/squidly
 Execute the script
 ```
 bash squidly.sh -proxy 192.168.1.100:3128 -https # scans all ports by default
-bash squidly.sh -proxy 192.168.1.100:3128 -p 8000-9000 -http  # scans ports 8000-9000 
 
+bash squidly.sh -proxy 192.168.1.100:3128 -p 8000-9000 -http  # scans ports 8000-9000 
 ```
 
 # FYI
